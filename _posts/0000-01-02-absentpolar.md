@@ -2,6 +2,6 @@ layout: slide
 
 title: Welcome to our second slide!
 
-poop pee poo
+eating a burger with no honey mustered
 
 Use the left arrow to go back!
